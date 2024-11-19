@@ -12,35 +12,12 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="SignUp"
+        android:hint="Logged In"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="25dp">
 
     </TextView>
 
-    <EditText
-        android:id="@+id/emailr"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Enter your email">
-
-    </EditText>
-
-    <EditText
-        android:id="@+id/passr"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Enter your password">
-
-    </EditText>
-
-    <Button
-        android:id="@+id/btnsign"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="SignUp">
-
-    </Button>
 
 </LinearLayout>
